@@ -1,5 +1,5 @@
 ---
-services: active-directory-b2c
+services: active-directory-b2c test
 platforms: dotnet
 author: dstrockis
 ---
