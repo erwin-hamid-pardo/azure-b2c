@@ -1,5 +1,5 @@
 ---
-page_type: sample
+page_type: samplee
 description: "The sample covers calling an OpenID Connect identity provider (Azure AD B2C) and acquiring a token from Azure AD B2C using MSAL."
 languages:
   - csharp
